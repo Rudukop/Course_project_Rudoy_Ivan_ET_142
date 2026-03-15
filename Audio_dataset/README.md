@@ -1,8 +1,10 @@
 Выбраннй кейс №67: Транскрибация и протоколирование контрольного мероприятия
 
+Выбранный датасет: Hugging Face — sovaai/sova-dataset(https://github.com/sovaai/sova-dataset)
+
 Общая информация
 Название датасета: SOVA — Russian Speech Dataset
-Источник: Hugging Face — sovaai/sova-dataset(https://github.com/sovaai/sova-dataset)
+Источник: Hugging Face — sovaai
 Авторы: SOVA.ai
 Дата подготовки: 2021-2023
 Лицензия: CC BY-NC 4.0 (некоммерческое использование с указанием авторства)
