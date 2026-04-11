@@ -24,3 +24,5 @@ smoker (категориальный): является ли человек ку
 region (категориальный): регион проживания в США. Значения: northeast, northwest, southeast, southwest.
 charges (целевой признак) (числовой): индивидуальные медицинские расходы, выставленные страховкой.
 Пропуски: Отсутствуют.
+
+Ссылка на код для анализа датасета: https://colab.research.google.com/drive/1fk8w6OMavM91Cbhd01ESvu121Zdgy300?usp=sharing
