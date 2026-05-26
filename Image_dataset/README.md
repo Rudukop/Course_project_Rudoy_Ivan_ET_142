@@ -19,6 +19,3 @@
 Перечень классов:
 helmet — строительная каска надета на голову.
 head — голова человека без каски.
-person — человек (используется не во всех версиях датасета, иногда только helmet и head).
-
-Ссылка на код: https://colab.research.google.com/drive/1m8HJmKlYgj5SAhXjQO4dx_ASrXEMbU4S?usp=sharing
